@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "The Down &amp; Outs",
     "description": "",
-    "home_page_url": "https://bcw2744-sudo.github.io/DnO",
-    "feed_url": "https://bcw2744-sudo.github.io/DnO/feed.json",
+    "home_page_url": "https://thedownandouts.com",
+    "feed_url": "https://thedownandouts.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "BW"
     },
     "items": [
         {
-            "id": "https://bcw2744-sudo.github.io/DnO/post-1.html",
-            "url": "https://bcw2744-sudo.github.io/DnO/post-1.html",
+            "id": "https://thedownandouts.com/post-1.html",
+            "url": "https://thedownandouts.com/post-1.html",
             "title": "Post 1",
             "author": {
                 "name": "BW"
