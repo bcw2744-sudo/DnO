@@ -10,74 +10,144 @@
     },
     "items": [
         {
-            "id": "https://thedownandouts.com/mars.html",
-            "url": "https://thedownandouts.com/mars.html",
-            "title": "Mars",
-            "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://thedownandouts.com/media/posts/12/marscoverart.png",
-            "author": {
-                "name": "BW"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-13T17:53:04-05:00",
-            "date_modified": "2025-11-13T17:53:04-05:00"
-        },
-        {
-            "id": "https://thedownandouts.com/allthatyearning.html",
-            "url": "https://thedownandouts.com/allthatyearning.html",
-            "title": "ALLTHATYEARNING",
-            "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://thedownandouts.com/media/posts/11/Untitled-1-Recovered.jpg",
-            "author": {
-                "name": "BW"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-13T17:42:38-05:00",
-            "date_modified": "2025-11-13T17:42:38-05:00"
-        },
-        {
-            "id": "https://thedownandouts.com/2345.html",
-            "url": "https://thedownandouts.com/2345.html",
-            "title": "2345",
-            "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://thedownandouts.com/media/posts/10/2345-1.jpg",
-            "author": {
-                "name": "BW"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-13T17:40:04-05:00",
-            "date_modified": "2025-11-13T17:40:04-05:00"
-        },
-        {
-            "id": "https://thedownandouts.com/half-love-3.html",
-            "url": "https://thedownandouts.com/half-love-3.html",
-            "title": "HALF-LOVE",
-            "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://thedownandouts.com/media/posts/9/halflove2.png",
-            "author": {
-                "name": "BW"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-13T17:39:32-05:00",
-            "date_modified": "2025-11-13T17:39:32-05:00"
-        },
-        {
-            "id": "https://thedownandouts.com/talk-to-me-2.html",
-            "url": "https://thedownandouts.com/talk-to-me-2.html",
+            "id": "https://thedownandouts.com/talk-to-me-3.html",
+            "url": "https://thedownandouts.com/talk-to-me-3.html",
             "title": "TALK TO ME",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://thedownandouts.com/media/posts/8/TALKTOME_COVERART.png",
+            "image": "https://thedownandouts.com/media/posts/24/TALKTOME_COVERART.png",
             "author": {
                 "name": "BW"
             },
             "tags": [
             ],
-            "date_published": "2025-11-13T17:39:13-05:00",
-            "date_modified": "2025-11-13T17:39:13-05:00"
+            "date_published": "2025-11-13T18:20:25-05:00",
+            "date_modified": "2025-11-13T18:20:25-05:00"
+        },
+        {
+            "id": "https://thedownandouts.com/half-love-4.html",
+            "url": "https://thedownandouts.com/half-love-4.html",
+            "title": "HALF-LOVE",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://thedownandouts.com/media/posts/23/halflove2.png",
+            "author": {
+                "name": "BW"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-13T18:20:05-05:00",
+            "date_modified": "2025-11-13T18:20:05-05:00"
+        },
+        {
+            "id": "https://thedownandouts.com/2345-2.html",
+            "url": "https://thedownandouts.com/2345-2.html",
+            "title": "2345",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://thedownandouts.com/media/posts/22/2345-1.jpg",
+            "author": {
+                "name": "BW"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-13T18:19:44-05:00",
+            "date_modified": "2025-11-13T18:19:44-05:00"
+        },
+        {
+            "id": "https://thedownandouts.com/allthatyearning-2.html",
+            "url": "https://thedownandouts.com/allthatyearning-2.html",
+            "title": "ALLTHATYEARNING",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://thedownandouts.com/media/posts/21/Untitled-1-Recovered.jpg",
+            "author": {
+                "name": "BW"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-13T18:19:13-05:00",
+            "date_modified": "2025-11-13T18:19:13-05:00"
+        },
+        {
+            "id": "https://thedownandouts.com/mars-2.html",
+            "url": "https://thedownandouts.com/mars-2.html",
+            "title": "Mars",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://thedownandouts.com/media/posts/20/marscoverart.png",
+            "author": {
+                "name": "BW"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-13T18:17:47-05:00",
+            "date_modified": "2025-11-13T18:17:47-05:00"
+        },
+        {
+            "id": "https://thedownandouts.com/cntrl-group.html",
+            "url": "https://thedownandouts.com/cntrl-group.html",
+            "title": "Cntrl Group",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://thedownandouts.com/media/posts/19/Untitled-1.jpg",
+            "author": {
+                "name": "BW"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-13T18:17:14-05:00",
+            "date_modified": "2025-11-13T18:17:14-05:00"
+        },
+        {
+            "id": "https://thedownandouts.com/white-hot-heat.html",
+            "url": "https://thedownandouts.com/white-hot-heat.html",
+            "title": "White Hot Heat",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://thedownandouts.com/media/posts/18/WHH.png",
+            "author": {
+                "name": "BW"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-13T18:16:16-05:00",
+            "date_modified": "2025-11-13T18:16:16-05:00"
+        },
+        {
+            "id": "https://thedownandouts.com/jealousunreal.html",
+            "url": "https://thedownandouts.com/jealousunreal.html",
+            "title": "Jealous//Unreal",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://thedownandouts.com/media/posts/17/Jealous-_-Unreal_FINAL.png",
+            "author": {
+                "name": "BW"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-13T18:15:45-05:00",
+            "date_modified": "2025-11-13T18:15:45-05:00"
+        },
+        {
+            "id": "https://thedownandouts.com/last-party-on-duke-street.html",
+            "url": "https://thedownandouts.com/last-party-on-duke-street.html",
+            "title": "Last Party On Duke Street",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://thedownandouts.com/media/posts/16/Last-Party-Cover.png",
+            "author": {
+                "name": "BW"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-13T18:14:38-05:00",
+            "date_modified": "2025-11-13T18:14:38-05:00"
+        },
+        {
+            "id": "https://thedownandouts.com/the-down-and-outs.html",
+            "url": "https://thedownandouts.com/the-down-and-outs.html",
+            "title": "The Down &amp; Outs",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://thedownandouts.com/media/posts/15/EP-Cover.png",
+            "author": {
+                "name": "BW"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-13T18:13:40-05:00",
+            "date_modified": "2025-11-13T18:13:40-05:00"
         }
     ]
 }
